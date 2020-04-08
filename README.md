@@ -12,7 +12,7 @@ The [wiki](https://github.com/rocky/remake/wiki) also has information, including
 Example showing `--tasks` feature:
 
 ![--tasks](screenshots/remake-session0.gif)
-
+https://kcachegrind.github.io/html/Home.html
 Example showing `--trace` (short option `-x`) feature:
 
 ![--trace](screenshots/remake-trace.gif)
@@ -22,6 +22,6 @@ Example showing `--show-parent` (short option `-c`) feature:
 
 ![--show-parent](screenshots/remake-search-parent.gif)
 
-Example showing `--profiling` output (displayed via [KCachegrind](https://kcachegrind.github.io/html/Home.htmlkcachegrind)):
+Example showing `--profiling` output (displayed via [KCachegrind](https://kcachegrind.github.io/html/Home.html)):
 
 ![--profile](screenshots/remake-profiled2.png)
